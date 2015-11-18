@@ -1,0 +1,23 @@
+name: ecmedicalgroup
+favicon: null
+layout_spectrum: 0.1654166653752327
+typography_spectrum: 0.938102210406214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.10775412851944566
+  lightness: 0.7579684087540954
+  saturation: 0.5063866141717881
+  rhythmicContrast: 0.6900181833188981
+purpose: []
